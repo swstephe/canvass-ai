@@ -1,0 +1,7 @@
+{
+ "deviceId": "sensor-1",
+ "timestamp": "2020-01-02T03:45:00",
+ "readingA": 211.9,
+ "readingB": "high",
+ "activated": "2020-01-02T03:42:55"
+}
